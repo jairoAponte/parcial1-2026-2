@@ -18,7 +18,7 @@ Las soluciones no realizan tratamiento explícito de excepciones. Cuando un mét
 
 ## Clonar el repositorio
 
-Para obtener una copia local del repositorio:
+Para obtener una copia local del repositorio, ubíquese primero en la carpeta donde desea guardar el repositorio. Luego ejecute:
 
 ```bash
 git clone https://github.com/jairoAponte/parcial1-2026-2.git
